@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Paracetamol 500mg tablet",
+    "price": 15,
+    "category": "Pain and Fever",
+    "description": "paracetamol 500mg"
+  },
+  {
+    "name": "Betapain tablet",
+    "price": 245,
+    "category": "Pain and Fever",
+    "description": "Paracetamol 450mg +Codeine Phosphate 10mg +Caffein 50mg +Doxylamine Succinate"
+  },
+  {
+    "name": "Meftal 500mg tablet",
+    "price": 120,
+    "category": "Muscle aches",
+    "description": "Mefenamic Acid 500mg"
+  },
+  {
+    "name": "Spasfon 80mg tablet",
+    "price": 130,
+    "category": "Muscle aches",
+    "description": "Phloroglucinol 80mg"
+  },
+  {
+    "name": "Diclofenac 100mg tab/supp",
+    "price": "100",
+    "category": "Back pain",
+    "description": "Diclofenac 50mg"
+  },
+  {
+    "name": "FELDENE 20mg tablet or capsule",
+    "price": 185,
+    "category": "Back pain",
+    "description": "Piroxican 20 mg tablet"
+  },
+  {
+    "name": "Relief tablet",
+    "price": 30,
+    "category": "Toothaches",
+    "description": "paracetamol 125+Ibuprofen 100mg"
+  },
+  {
+    "name": "Ibupar tablet",
+    "price": 98,
+    "category": "Toothaches",
+    "description": "Paracetamol 325+Ibuprofen 400mg"
+  },
+  {
+    "name": "Trialgic tablet",
+    "price": 195,
+    "category": "Toothaches",
+    "description": "Ibuprofen 200mg +Paracetamol 325mg +Caffeine30mg"
+  },
+  {
+    "name": "Ibuprofen 400mg",
+    "price": 20,
+    "category": "Fever",
+    "description": "Ibuprofen 400mg"
+  },
+  {
+    "name": "Paracetamol 500mg",
+    "price": 15,
+    "category": "Fever",
+    "description": "Paracetamol 500mg"
+  },
+  {
+    "name": "Cold cap capsule",
+    "price": 70,
+    "category": "Sneezing",
+    "description": "Caffein Anhydrous 30mg +Pseudoephedrine 30mg +Chlorpheniramine Maleate 4mg"
+  },
+  {
+    "name": "Dacold capsule",
+    "price": 50,
+    "category": "Sneezing",
+    "description": "Caffein Anhydrous 30mg +Pseudoephedrine 30mg +Chlorpheniramine Maleate 4mg"
+  },
+  {
+    "name": "Febrilex tablet",
+    "price": 125,
+    "category": "Sneezing",
+    "description": "Paracetamol 500mg +Phenylephrin Hydrochloride 5mg +Chlorpheniramin maleate 2mg"
+  },
+  {
+    "name": "Fevarol tablet",
+    "price": 42,
+    "category": "Sneezing",
+    "description": "Paracetamol 500mg + Caffein 30mg +phenylephrine Hydrochloride 5mg + Chlorpheniramine maleate 2mg"
+  },
+  {
+    "name": "Xylometazoline 0.1% nasal drop 15ml BOTTLE",
+    "price": 500,
+    "category": "Runny nose",
+    "description": "Xylometazoline 0.1%"
+  },
+  {
+    "name": "Coldarest tablet",
+    "price": 50,
+    "category": "Runny nose",
+    "description": "Paracetamol+phenylephrin + chlorpheniramin+ Caffein"
+  },
+  {
+    "name": "Otrivine 0.1% nasal drop 10ml",
+    "price": 3300,
+    "category": "Runny nose",
+    "description": "Xylometazoline 0.1%"
+  },
+  {
+    "name": "Sinarest 0.05% nasal drop 10ml",
+    "price": 1500,
+    "category": "Runny nose",
+    "description": "Oxymetazoline 0.05%"
+  },
+  {
+    "name": "Cromosol 2% eye drop 5ml",
+    "price": 1350,
+    "category": "Itchy eyes",
+    "description": "Cromoglycate Disodique 2%"
+  },
+  {
+    "name": "Cotacol eye drop",
+    "price": 1700,
+    "category": "Itchy eyes",
+    "description": "Inosine Disodium Hydrate Phosphate"
+  },
+  {
+    "name": "Loratidine 10mg table",
+    "price": 85,
+    "category": "Hives",
+    "description": "Loratadine 10mg"
+  },
+  {
+    "name": "FENISTIL SIMPLE 1mg tablet",
+    "price": 200,
+    "category": "Hives",
+    "description": "Dimetindene maleate 1mg tablet"
+  },
+  {
+    "name": "Ambroxol 60mg tablet",
+    "price": 300,
+    "category": "Cough",
+    "description": "Ambroxol 60mg"
+  },
+  {
+    "name": "Ascoril expectorant 100ml",
+    "price": 1700,
+    "category": "Cough",
+    "description": "Bromhexine 2mg+Guaphenesin 50mg +Terbutaline 1.25mg+Menthol 0.5mg"
+  },
+  {
+    "name": "Strepsil pastille",
+    "price": 400,
+    "category": "Sore throat",
+    "description": "Dichlorobenzyl Alcohol"
+  },
+  {
+    "name": "lozanges",
+    "price": 300,
+    "category": "Sore throat",
+    "description": "methol/ chloraseptics"
+  },
+  {
+    "name": "Salbutamol 2mg/ 4mg tablet",
+    "price": "2/3",
+    "category": "Nasal congestion",
+    "description": "Salbutamol 2mg/ 4mg"
+  },
+  {
+    "name": "Sinutab tablet",
+    "price": 400,
+    "category": "Nasal congestion",
+    "description": "Pseudoephedrine +Paracetamol"
+  },
+  {
+    "name": "SALBUTAMOL 2mg/5ml syrup 100ml",
+    "price": 500,
+    "category": "Nasal congestion",
+    "description": "Salbutamol"
+  },
+  {
+    "name": "HYDROXYDE D'ALUMINIUM 500MG tablet",
+    "price": 5,
+    "category": "Heartburn",
+    "description": "Aluminium hydroxide 500mg tablet"
+  },
+  {
+    "name": "Cimetidine 200/400mg tablets",
+    "price": 20,
+    "category": "Heartburn",
+    "description": "Cimetidine 200/400mg tablets"
+  },
+  {
+    "name": "GASTRICID Tablet",
+    "price": 115,
+    "category": "Heartburn",
+    "description": "Famotidine 10 mg, Magnesium hydroxide 165 mg, Calcium carbonate 800 mg"
+  },
+  {
+    "name": "Omeprazole 20mg",
+    "price": 50,
+    "category": "Indigestion",
+    "description": "Omeprazole 20mg"
+  },
+  {
+    "name": "Eno sachet",
+    "price": 200,
+    "category": "Indigestion",
+    "description": "sodium bicarbonate, citric acid, and anhydrous sodium"
+  },
+  {
+    "name": "GAVISCON 260mg tablet",
+    "price": 70,
+    "category": "Indigestion",
+    "description": "Aluminium Hydroxyde +Magnesium Carbonate"
+  },
+  {
+    "name": "LOPERAMIDE 2MG tablet",
+    "price": 16,
+    "category": "Diarrhea",
+    "description": "Loperamide"
+  },
+  {
+    "name": "Zinc sulphate 10/ 20mg Tablet",
+    "price": 15,
+    "category": "Diarrhea",
+    "description": "ZINC SULFATE 10/ 20 mg tablet"
+  },
+  {
+    "name": "Constipation",
+    "price": 11,
+    "category": "Constipation",
+    "description": "BISACODYL 5mg tablet"
+  },
+  {
+    "name": "Bisacodyl 5mg Tablet",
+    "price": 300,
+    "category": "Constipation",
+    "description": "Bisacodyl 5mg"
+  },
+  {
+    "name": "DUPHALAC Sachet B/20",
+    "price": 450,
+    "category": "Constipation",
+    "description": ""
+  },
+  {
+    "name": "CITROSODA 100g Sachet",
+    "price": 140,
+    "category": "Gas",
+    "description": "Sodium Bicarbonate"
+  },
+  {
+    "name": "flatoril 200mg",
+    "price": 167,
+    "category": "Gas",
+    "description": "Cleboprida 0.5mg +Simeticone 200mg"
+  },
+  {
+    "name": "Acnesol 0.05% cream 25mg TUBE",
+    "price": 800,
+    "category": "Acne",
+    "description": "Tretinoin"
+  },
+  {
+    "name": "Clindamycine 30mg topical gel TUBE",
+    "price": 1000,
+    "category": "Acne",
+    "description": "Clindamycin"
+  },
+  {
+    "name": "Hydrocortisone 1% cream/ointment 15g TUBE",
+    "price": 400,
+    "category": "Rashes",
+    "description": "Hydrocortisone 1%"
+  },
+  {
+    "name": "AKEROL 5mg tablet TUBE",
+    "price": 300,
+    "category": "Rashes",
+    "description": "Desloratidine 5mg tablet"
+  },
+  {
+    "name": "Prednisolone 5mg tablet",
+    "price": 5,
+    "category": "Itching",
+    "description": "Prednisolone 5mg"
+  },
+  {
+    "name": "Dexamethasone 0.5mg tablet",
+    "price": 6,
+    "category": "Itching",
+    "description": "Dexamethasone"
+  },
+  {
+    "name": "Cetirizine 10mg tablet",
+    "price": 8,
+    "category": "Insect bites",
+    "description": "Cetirizine 10mg"
+  },
+  {
+    "name": "Loratadine 10mg tablet",
+    "price": 74,
+    "category": "Insect bites",
+    "description": "Loratadine 10mg"
+  },
+  {
+    "name": "Adhesive elastic bandage",
+    "price": 500,
+    "category": "Minor burns",
+    "description": "BANDE ELASTIQUE 10CM"
+  },
+  {
+    "name": "Methylene blue solution 2% 20ml",
+    "price": 500,
+    "category": "Minor burns",
+    "description": "METHYLENE BLUE SOL 2% 20ml"
+  },
+  {
+    "name": "Compresse sterile",
+    "price": 700,
+    "category": "Minor burns",
+    "description": "COMPRESSE STERILE 10CMX10CM B/10"
+  },
+  {
+    "name": "Tylenol PM",
+    "price": null,
+    "category": "Occasional sleeplessness",
+    "description": "Acetaminophen 500 mg + Diphenhydramine HCl 25 mg"
+  },
+  {
+    "name": "Iron Fumarate+Folic Acid+Vitamin C+Vitamin B12+Zinc",
+    "price": 252,
+    "category": "Occasional sleeplessness",
+    "description": "MECONERV Capsule"
+  },
+  {
+    "name": "Zee-1",
+    "price": 2000,
+    "category": "Morning after pills",
+    "description": "Levonogestrel 1.5mg"
+  },
+  {
+    "name": "UNOSURE 72 PILL",
+    "price": 2000,
+    "category": "Morning after pills",
+    "description": "Levonogestrel 1.5mg"
+  },
+  {
+    "name": "PILL 72",
+    "price": 1500,
+    "category": "Morning after pills",
+    "description": "Levonogestrel 0.75mg"
+  },
+  {
+    "name": "CONFIANCE Microgynom",
+    "price": 1500,
+    "category": "Morning after pills",
+    "description": "Levonorgestrel 150mg + Ethinylestradiol 30mg"
+  }
+]
